@@ -1,0 +1,3 @@
+[submodule "kasapi-php"]
+  path = vendor/wazaari/kasapi-php
+  url = https://github.com/waza-ari/kasapi-php.git
