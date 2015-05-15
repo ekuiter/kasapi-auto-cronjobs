@@ -1,0 +1,5 @@
+{
+  "require": {
+    "wazaari/kasapi-php": "dev-master"
+  }
+}
